@@ -1,11 +1,13 @@
 <h1 align="center">
-  Arch Linux Setup
+  Dotfiles
 </h1>
 <p align="center">
-  My config files for linux tools
+  my config files for linux tools
 </p>
 
-![image](https://user-images.githubusercontent.com/54955669/141981229-8fb6c2bb-2df5-4bcd-b47f-494df5c8df76.png)
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/54955669/141981229-8fb6c2bb-2df5-4bcd-b47f-494df5c8df76.png" width="600" />
+</div>
 
 ## Tools
 
