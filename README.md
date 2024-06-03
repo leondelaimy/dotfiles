@@ -2,7 +2,7 @@
   Dotfiles
 </h1>
 <p align="center">
-  my config files for linux tools
+  config files for linux tools
 </p>
 
 <div align="center"> 
